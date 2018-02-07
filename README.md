@@ -1,6 +1,7 @@
 # kraken
 
 [![pipeline status](https://git.cnct.io/common-tools/samsung-cnct_kraken/badges/master/pipeline.svg)](https://git.cnct.io/common/samsung-cnct_kraken/commits/master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fserfdom%2Fkraken.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fserfdom%2Fkraken?ref=badge_shield)
 
 This document will help you get started deploying a high-availability Kubernetes cluster to AWS using kraken, a command-line interface for [kraken-lib](https://github.com/samsung-cnct/kraken-lib). kraken currently also supports deployments to GKE (see Building a Configuration File below).
 
@@ -312,3 +313,7 @@ Here are some additional resources you might find useful:
 # Maintainer
 
 This document is maintained by Patrick Christopher (@coffeepac) at Samsung SDS.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fserfdom%2Fkraken.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fserfdom%2Fkraken?ref=badge_large)
